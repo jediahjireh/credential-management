@@ -106,7 +106,7 @@ The backend server will be available at `http://localhost:8080`.
 
 ```sh
 cd ../frontend
-npm start
+npm run dev
 ```
 
 The frontend development server will run on `http://localhost:8000`.
