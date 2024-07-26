@@ -77,7 +77,7 @@ npm install
 To start the development server and open the application in your default browser, run:
 
 ```sh
-npm start
+npm run dev
 ```
 
 The development server will run on `http://localhost:8000` by default.
