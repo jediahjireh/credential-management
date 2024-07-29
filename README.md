@@ -228,4 +228,7 @@ _Screenshots showing the frontend integration with the API endpoints are display
 - Referenced [freeCodeCamp's "How to Build a Full-Stack Authentication App With React, Express, MongoDB, Heroku, and Netlify" resource](https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/) for guidance on ["How to Protect the Routes" in the frontend build](https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/#how-to-protect-the-routes)
 - The landing page background is a [Video by Mati Mango from Pexels](https://www.pexels.com/video/close-up-view-of-a-man-doing-computer-programming-6330779/)
 
+Project created by: [Jediah Jireh Naicker](https://github.com/jediahjireh)
+Feel free to reach out to me at [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com) for inquiries.
+
 Happy coding!
